@@ -101,4 +101,4 @@ mbti-test/
 | 4 | 레퍼런스 수집 | ✅ OEJTS 개발 문서 |
 | 5 | 문항 40개·유형 데이터 작성 | ✅ 40문항, 16유형 × 밈 3장 |
 | 6 | 화면 구현 | ✅ 시작·테스트·결과 화면 |
-| 7 | 배포 (GitHub Pages) | ⬜ |
+| 7 | 배포 (GitHub Pages) | ✅ https://yeorm123.github.io/mbti-test/ |
