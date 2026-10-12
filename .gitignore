@@ -1,0 +1,4 @@
+# 수집한 레퍼런스 원문 (다른 사이트 저작물)
+references/*.md
+!references/README.md
+references/*.txt
